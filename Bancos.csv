@@ -1,0 +1,44 @@
+Codigo_Pais;Codigo_Banco;Nome_Banco;Nome_Banco_Completo;Nome_do_campo_pesquisa_no_pais;Site;Local_Pesquisa
+PT;0035;Caixa Geral de Depósitos
+PT;0018;Santander;Santander Totta
+PT;0033;Millennium BCP
+PT;0010;BPI
+PT;0007;Novo Banco
+PT;0269;Bankinter
+PT;0079;EuroBIC
+PT;0046;Popular
+PT;0036;Montepio
+PT;0193;Banco CTT
+PT;0019;BBVA;Banco Bilbao Vizcaya Argentaria S.A.
+PT;0023;ActivoBanck SA
+PT;0045;Crédito Agrícola;Caixa Central de Crédito Agrícola
+PT;0065;BEST
+IT;03069;Intesa Sanpaolo;Intesa Sanpaolo S.P.A.;Codice ABI;https://www.blia.it/utili/abicab/elenco.php
+IT;01030;Monte dei Paschi di Siena;BANCA MONTE DEI PASCHI DI SIENA S.P.A.
+IT;36772;Hype
+IT;02008;Unicredit;UNICREDIT SOCIETA' PER AZIONI
+IT;01005;Nazionale del Lavoro;BANCA NAZIONALE DEL LAVORO S.P.A. (IN FORMA CONTRATTA BNL S.P.A.)
+IT;03646;N26 Bank;N26 Bank GMBH
+IT;03475;Ing Bank N.V.
+IT;36081;Postepay;POSTEPAY S.P.A.;https://www.bde.es/webbde/en/estadis/ifm/if_es.html
+IT;06230;Crédit Agricole;CRÉDIT AGRICOLE ITALIA S.P.A.
+ES;0049;Santander;Banco Santander S.A.
+ES;1576;Bunq B.V.;Bunq B.V. Sucursal en España
+ES;2100;Caixabank;Caixabank S.A.
+ES;6713;PFS Card Services;PFS Card Services Ireland Limited S.E
+ES;0182;BBVA;Banco Bilbao Vizcaya Argentaria S.A.
+ES;1563;N26 Bank;N26 Bank GMBH
+FR;16958;Qonto;Olinda;https://qonto.com/en;https://insurly.fr/banque/code-banque
+FR;16908;Ma French Bank
+FR;25733;PPS EU SA
+FR;21833;PFS Card Services;PFS Card Services Ireland Limited S.E
+BR;33923798;Máxima;BANCO MÁXIMA S.A;https://www.conta-corrente.com/codigo-dos-bancos/
+EE;77;AS LHV Pank;https://www.pangaliit.ee/settlements-and-standards/bank-codes
+GB;REVO;Revolut;REVOLUT LTD;https://bank.codes/swift-code/united-kingdom/revogb21/
+GB;CLJU;Clear;CLEAR JUNCTION LTD
+LT;32500;Oripaan;ORIPAAN OSUUSPANKKI;https://www.bank-codes.com/oripaan-osuuspankki-swift-code-OROPFI21XXX-bic-code
+DE;11010101;SolarisBank;solarisBank Gf (S);https://bank.codes/bankleitzahl/11010101/
+DE;10011001;N26 Bank;N26 Bank GMBH
+BE;967;Wise Europe SA;https://www.nbb.be/en/payments-and-securities/payment-standards/bank-identification-codes
+LU;408;Clearstream;CLEARSTREAM BANKING S.A.;https://bank.codes/swift-code/luxembourg/page/9/
+IE;PFSR;PFS Card Services;Prepaid Financial Services Ireland
