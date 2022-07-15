@@ -1,0 +1,13 @@
+Pais;Código do país;Dígitos de verificação;Código do banco;Código da agência;Número de conta bancária;Número nacional de verificação;Account type;Owner account type;Formato Impressão;Total Dígitos
+Portutal;PT (2 letras);50 ( 2 dígitos);4 caracteres;4 dígitos;11 dígitos;2 dígitos;PT50 0002 0123 1234 5678 9015 4;25
+Belgica;BE (2 letras);68 ( 2 dígitos);3 caracteres;NA;7 dígitos;2 dígitos;BE68 5390 0754 7034;16
+Reino Undido;GB (2 letras);29 ( 2 dígitos);4 caracteres;6 dígitos;8 dígitos;NA;GB29 NWBK 6016 1331 9268 19;22
+Espanha;ES (2 letras);91 ( 2 dígitos);4 caracteres;4 dígitos;10 dígitos;2 dígitos;ES91 2100 0418 4502 0005 1332;24
+Brasil;BR (2 letras);18 ( 2 dígitos);8 caracteres;5 dígitos;10 dígitos;NA;1 dígito;1 dígito;BR18 0036 0305 0000 1000 9795 493C 1;29
+Alemanha ;DE (2 letras);89 ( 2 dígitos);8 caracteres;NA;10 dígitos;NA;DE89 3704 0044 0532 0130 00;22
+Estônia;EE (2 letras);38 ( 2 dígitos);2 caracteres;2 dígitos;11 dígitos;1 dígitos;EE38 2200 2210 2014 5685;20
+França;FR (2 letras);14 ( 2 dígitos);5 caracteres;5 dígitos;11 dígitos;2 dígitos;FR14 2004 1010 0505 0001 3M02 606;27
+Irlanda;IE (2 letras);29 ( 2 dígitos);4 caracteres;6 dígitos;8 dígitos;NA;IE29 AIBK 9311 5212 3456 78;22
+Itália;IT (2 letras);60 ( 2 dígitos);5 caracteres;5 dígitos;12 dígitos;1 dígitos;IT60 X054 2811 1010 0000 0123 456;27
+Lituânia;LT (2 letras);12 ( 2 dígitos);5 caracteres;NA;11 dígitos;NA;LT12 1000 0111 0100 1000;20
+Luxemburgo;LU (2 letras);28 ( 2 dígitos);3 caracteres;NA;13 dígitos;NA;LU28 0019 4006 4475 0000;20
